@@ -1,0 +1,396 @@
+.breakFast1
+{
+    list-style: none;
+    display: inline;
+}
+.breakFast2
+{
+    list-style: none;
+    display: inline;
+}
+.breakFast1,.breakFast2  
+{
+    display: inline-block;
+    margin-left: 80px;
+}
+body{
+    background-image: url(hotel2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dosa img 
+{
+height: 200px;
+width: 200px;
+margin-left: 127px;
+border-radius: 20px;
+}
+.puri img 
+{
+height: 200px;
+width: 200px;
+margin-left:131px;
+border-radius: 20px;
+}
+.idli img 
+{
+height: 200px;
+width: 200px;
+margin-left: 137px;
+border-radius: 20px;
+}
+.pongal img 
+{
+height: 200px;
+width: 200px;
+margin-left: 102px;
+border-radius: 20px;
+}
+.chitranna img 
+{
+height: 200px;
+width: 200px;
+margin-left: 76px;
+border-radius: 20px;
+}
+.pongal 
+{
+   margin: 30px;
+   font-size: x-large;
+   display: flex;
+   color: antiquewhite;
+   font-weight: bolder;
+   font-style: oblique;
+text-shadow: 8px 8px 2px red;
+
+}
+.idli 
+{
+   margin: 30px;
+   font-size: x-large;
+   display: flex;
+   color: antiquewhite;
+   font-weight: bolder;
+   font-style: oblique;
+   text-shadow: 8px 8px 2px red;
+}
+.dosa 
+{
+   margin: 30px;
+   font-size: x-large;
+   display: flex;
+   color: antiquewhite;
+   font-weight: bolder;
+   font-style: oblique;
+   text-shadow: 8px 8px 2px red;
+}
+.puri 
+{
+   margin: 30px;
+   font-size: x-large;
+   display: flex;
+   color: antiquewhite;
+   font-weight: bolder;
+   font-style: oblique;
+   text-shadow: 8px 8px 2px red;
+}
+.chitranna 
+{
+   margin: 30px;
+   font-size: x-large;
+   display: flex;
+   color: antiquewhite;
+   font-weight: bolder;
+   font-style: oblique;
+   text-shadow: 8px 8px 2px red;
+}
+.tomatobath img 
+{
+height: 200px;
+width: 200px;
+margin-left: 37px;
+border-radius: 20px;
+}
+.pulav img 
+{
+height: 200px;
+width: 200px;
+margin-left:101px;
+border-radius: 20px;
+}
+.setdosa img 
+{
+height: 200px;
+width: 200px;
+margin-left: 82px;
+border-radius: 20px;
+}
+.upma img 
+{
+height: 200px;
+width: 200px;
+margin-left: 102px;
+border-radius: 20px;
+}
+.ricebath img 
+{
+height: 200px;
+width: 200px;
+margin-left: 76px;
+border-radius: 20px;
+}
+.upma 
+{
+   margin: 30px;
+   font-size: x-large;
+   display: flex;
+   color: antiquewhite;
+   font-weight: bolder;
+   font-style: oblique;
+text-shadow: 8px 8px 2px red;
+
+}
+.ricebath 
+{
+   margin: 30px;
+   font-size: x-large;
+   display: flex;
+   color: antiquewhite;
+   font-weight: bolder;
+   font-style: oblique;
+   text-shadow: 8px 8px 2px red;
+}
+.setdosa 
+{
+   margin: 30px;
+   font-size: x-large;
+   display: flex;
+   color: antiquewhite;
+   font-weight: bolder;
+   font-style: oblique;
+   text-shadow: 8px 8px 2px red;
+}
+.pulav 
+{
+   margin: 30px;
+   font-size: x-large;
+   display: flex;
+   color: antiquewhite;
+   font-weight: bolder;
+   font-style: oblique;
+   text-shadow: 8px 8px 2px red;
+}
+.tomatobath 
+{
+   margin: 30px;
+   font-size: x-large;
+   display: flex;
+   color: antiquewhite;
+   font-weight: bolder;
+   font-style: oblique;
+   text-shadow: 8px 8px 2px red;
+}
+.veg 
+{
+    margin-left: 80px;
+}
+.chapati img
+{
+    height: 200px;
+width: 200px;
+margin-left: 76px;
+border-radius: 20px;
+}
+.roti img
+{
+    height: 200px;
+    width: 200px;
+    margin-left:102px;
+    border-radius: 20px;
+}
+.mudde img
+{
+    height: 200px;
+    width: 200px;
+    margin-left: 101px;
+    border-radius: 20px;
+}
+
+.vegetablerice img
+{
+    height: 200px;
+    width: 200px;
+    margin-left: 76px;
+    border-radius: 20px;
+}
+.vegbiriyani img
+{
+    height: 200px;
+    width: 200px;
+    margin-left: 98px;
+    border-radius: 20px;
+}
+.chapati
+{
+    margin: 30px;
+    font-size: x-large;
+    display: flex;
+    color: antiquewhite;
+    font-weight: bolder;
+    font-style: oblique;
+    text-shadow: 8px 8px 2px red;
+}
+.roti
+{
+    margin: 30px;
+   font-size: x-large;
+   display: flex;
+   color: antiquewhite;
+   font-weight: bolder;
+   font-style: oblique;
+   text-shadow: 8px 8px 2px red; 
+}
+.vegbiriyani
+{
+    margin: 30px;
+   font-size: x-large;
+   display: flex;
+   color: antiquewhite;
+   font-weight: bolder;
+   font-style: oblique;
+   text-shadow: 8px 8px 2px red; 
+}
+.vegetablerice
+{
+    margin: 30px;
+    font-size: x-large;
+    display: flex;
+    color: antiquewhite;
+    font-weight: bolder;
+    font-style: oblique;
+    text-shadow: 8px 8px 2px red;
+}
+.mudde
+{
+    margin: 30px;
+    font-size: x-large;
+    display: flex;
+    color: antiquewhite;
+    font-weight: bolder;
+    font-style: oblique;
+    text-shadow: 8px 8px 2px red;
+}
+.veg,.nonVeg
+{
+    display: inline-block;
+}
+.nonVeg
+{
+    margin-left: 50px;
+}
+.v,.nv 
+{
+    display: inline;
+}
+.cb img
+{
+    height: 200px;
+    width: 200px;
+    margin-left:101px;
+    border-radius: 20px;
+}
+.mb img
+{
+    height: 200px;
+width: 200px;
+margin-left:107px;
+border-radius: 20px;
+}
+.parota img
+{
+    height: 200px;
+width: 200px;
+margin-left:191px;
+border-radius: 20px;
+}
+.fishcurry img
+{
+    height: 200px;
+width: 200px;
+margin-left:151px;
+border-radius: 20px;
+}
+.chickencurry img
+{
+    height: 200px;
+width: 200px;
+margin-left:114px;
+border-radius: 20px;
+}
+.cb
+{
+    margin: 30px;
+    font-size: x-large;
+    display: flex;
+    color: antiquewhite;
+    font-weight: bolder;
+    font-style: oblique;
+    text-shadow: 8px 8px 2px red;
+}
+.mb
+{
+    margin: 30px;
+    font-size: x-large;
+    display: flex;
+    color: antiquewhite;
+    font-weight: bolder;
+    font-style: oblique;
+    text-shadow: 8px 8px 2px red;
+}
+.parota
+{
+    margin: 30px;
+    font-size: x-large;
+    display: flex;
+    color: antiquewhite;
+    font-weight: bolder;
+    font-style: oblique;
+    text-shadow: 8px 8px 2px red;
+}
+.fishcurry
+{
+    margin: 30px;
+    font-size: x-large;
+    display: flex;
+    color: antiquewhite;
+    font-weight: bolder;
+    font-style: oblique;
+    text-shadow: 8px 8px 2px red;
+}
+.chickencurry
+{
+    margin: 30px;
+    font-size: x-large;
+    display: flex;
+    color: antiquewhite;
+    font-weight: bolder;
+    font-style: oblique;
+    text-shadow: 8px 8px 2px red; 
+}
+#button 
+{
+    padding: 20px;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: oblique;
+    border-radius: 50px;
+    border: transparent;
+    color: blueviolet;
+    transition: padding 3s;
+}
+#button:hover 
+{
+padding: 30px;
+background-color: antiquewhite;
+}

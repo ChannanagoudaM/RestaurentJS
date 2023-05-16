@@ -1,0 +1,89 @@
+body
+{
+    background-image: url(hotel2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main 
+{
+    display: flex;
+    justify-content: center;
+}
+.a1 
+{
+    font-size: 80px;
+    color: bisque;
+}
+.a2
+{
+    margin-left:400px;
+    font-size: 80px;
+    color:rgb(243, 150, 12);
+    font-style: italic;
+    transition: font-size 7s;
+}
+.a2:hover
+{
+    font-size: 120px;
+}
+.a 
+{
+    display: inline-block;
+    justify-content: end;
+}
+.a button 
+{
+    width: 100px;
+    height: 50px;
+    font-size: larger;
+    border-radius: 20px;
+    border: transparent;
+    font-style: oblique;
+    margin: 10px;
+    transition: width 2s;
+}
+
+.a button:hover
+{
+    width:150px ;
+    background-color: coral;
+}
+.-a 
+{
+   display: inline-block;
+}
+.-a button 
+{
+    width: 100px;
+    height: 50px;
+    font-size: larger;
+    border-radius: 20px;
+    border: transparent;
+    font-style: oblique;
+    margin: 10px;
+    transition: width 2s;
+}
+.-a button:hover
+{
+    width:60px;
+    background-color: aqua;
+}
+.container 
+{
+    display: flex;
+    justify-content: center;
+}
+.anchor 
+{
+    font-size: 50px;
+    text-decoration: none;
+    color: rgba(226, 24, 24, 0.494);
+    font-weight: bolder;
+    font-style: oblique;
+    transition:font-size 7s;
+}
+.anchor:hover
+{
+ font-size:60px ;
+ color: rgb(207, 67, 7);
+}
